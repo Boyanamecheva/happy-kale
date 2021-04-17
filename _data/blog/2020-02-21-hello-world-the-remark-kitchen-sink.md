@@ -2,7 +2,7 @@
 template: BlogPost
 path: /remark-kitchen-sink
 date: '2021-04-15T04:12'
-title: 'Hello World: The remark Kitchen Sink'
+title: Lunchclub
 thumbnail: /assets/image-6.jpg
 ---
 # h1 Heading 8-)
